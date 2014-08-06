@@ -3,4 +3,4 @@ python:
  - 2.6
  #- 2.7
 install: true
-script: echo "hello,gm " 
+script: echo "hello,gm " >> b.txt 
